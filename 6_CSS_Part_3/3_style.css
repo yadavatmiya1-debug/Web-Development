@@ -1,0 +1,19 @@
+/* h2{
+    display:inline;
+    background-color: teal;
+}
+
+span{
+    display:block;
+    background-color: green;
+} */
+
+span{
+    background-color: pink;
+    color:green;
+    border:2px solid black;
+    height:200px;
+    width:500px;
+    padding:50px;
+    margin:50px;
+}
